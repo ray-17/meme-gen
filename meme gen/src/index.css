@@ -17,7 +17,7 @@ main {
     display: flex;
     align-items: center;
     height: 65px;
-    background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+    background: linear-gradient(90deg, #0101c2 1.18%, #03c6d7  100%);
     color: white;
     padding: 20px;
 }
@@ -50,7 +50,7 @@ main {
 .form button {
     grid-column: 1 / -1;
     border-radius: 5px;
-    background: linear-gradient(90.41deg, #711F8D 1.14%, #A818DA 100%);
+    background: linear-gradient(90.41deg, #0101c2 1.14%, #03c6d7 100%);
     color: white;
     border: none;
     cursor: pointer;
